@@ -9,8 +9,8 @@ Dibuat untuk memenuhi **Tugas 2 — Enrichment for Machine Learning Class (Indiv
 
 | | |
 |---|---|
-| **Nama** | *(isi nama kamu)* |
-| **NIM** | *(isi NIM kamu)* |
+| **Nama** | Ahmad Ghazali El Faruqi Hsb |
+| **NIM** | 101032330080 |
 | **Mata Kuliah** | Machine Learning |
 
 ---
