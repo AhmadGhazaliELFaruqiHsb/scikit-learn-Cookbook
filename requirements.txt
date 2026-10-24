@@ -4,4 +4,11 @@ pandas
 matplotlib
 seaborn
 scipy
+nltk
+flask
+fastapi
+pydantic
+skops
+skl2onnx
+onnxruntime
 jupyter
